@@ -1,9 +1,0 @@
-streamlit
-Pillow
-numpy
-matplotlib
-scipy
-torch
-torchvision
-grad-cam
-opencv-python-headless
